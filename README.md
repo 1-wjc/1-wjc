@@ -49,6 +49,7 @@
 <div align="center">
 
 <img src="https://github.com/1-wjc/1-wjc/blob/main/profile-3d-contrib/profile-green-animate.svg" alt="GitHub 3D Contribution" />
+
 <br/>
 
 ![](https://github-readme-stats.shion.dev/api?username=1-wjc&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/>
