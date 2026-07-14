@@ -22,17 +22,19 @@
 
 <br/>
 
-## 🎓 Education & Certifications (교육, 수상 및 자격증)
+## 🎓 Education & Certifications
 
 ### 📚 교육 수강 내역
 * **[삼성청년 SW·AI 아카데미(SSAFY)]** | 삼성전자 (2026.07 ~ )
 * **[서울대학교 빅데이터 AI 핀테크 고급 전문가 과정(KDT)]** | 서울대학교 (2024.12 ~ 2025.07)
+
 <br/>
 
 ### 🏆 수상 내역
 * **제 3회 유통 데이터 활용 경진대회** | 우수상 | 산업통상자원부 (2024.11)
-* 
+
 <br/>
+
 ### 📜 자격증
 * **데이터분석준전문가 (ADsP)** | 한국데이터산업진흥원 (2024.11)
 * **SQL 개발자 (SQLD)** | 한국데이터산업진흥원 (2024.12)
@@ -41,6 +43,11 @@
 <br/>
 
 ## 📊 GitHub Stats:
+
+<!-- 3D 잔디밭 이미지 -->
+![](https://github-profile-3d-contrib.vercel.app/api?username=1-wjc&theme=native)
+<!-- 플랫 잔디밭 이미지 -->
+![](https://github-readme-activity-graph.vercel.app/graph?username=1-wjc&theme=default)
 ![](https://github-readme-stats.shion.dev/api?username=1-wjc&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=1-wjc&theme=default&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=1-wjc&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
