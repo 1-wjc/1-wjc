@@ -48,7 +48,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/1-wjc/1-wjc/master/profile-3d-contrib/profile-green-animate.svg" alt="GitHub 3D Contribution" width="50%"/>
+<img src="https://raw.githubusercontent.com/1-wjc/1-wjc/master/profile-3d-contrib/profile-green-animate.svg" alt="GitHub 3D Contribution" width="70%"/>
 
 <br/>
 
