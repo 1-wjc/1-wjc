@@ -1,20 +1,27 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # 매일 한국 시간 기준 오전 9시쯤 자동으로 잔디를 갱신합니다
+  schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch: # 수동으로도 원할 때 언제든 실행할 수 있게 합니다
+  workflow_dispatch:
+
+# 이 부분이 핵심입니다! 액션에 쓰기(Write) 권한을 명시적으로 줍니다.
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v3
+      # v3에서 최신 버전인 v4로 업그레이드하여 Node 경고를 해결합니다.
+      - uses: actions/checkout@v4
+      
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+          
       - name: Commit & Push Changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
