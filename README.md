@@ -44,10 +44,10 @@
 
 ## 📊 GitHub Stats:
 
-<!-- 3D 잔디밭 이미지 -->
 ![](https://github-profile-3d-contrib.vercel.app/api?username=1-wjc&theme=native)
-<!-- 플랫 잔디밭 이미지 -->
-![](https://github-readme-activity-graph.vercel.app/graph?username=1-wjc&theme=default)
+
+<br/>
+
 ![](https://github-readme-stats.shion.dev/api?username=1-wjc&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=1-wjc&theme=default&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=1-wjc&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
