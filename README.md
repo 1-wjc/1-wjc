@@ -20,6 +20,8 @@
 
 </div>
 
+
+
 ## 🎓 Education & Certifications (교육, 수상 및 자격증)
 
 ### 📚 교육 수강 내역
@@ -33,21 +35,17 @@
 * **데이터분석준전문가 (ADsP)** | 한국데이터산업진흥원 (2024.11)
 * **SQL 개발자 (SQLD)** | 한국데이터산업진흥원 (2024.12)
 
-### 📊 GitHub Stats:
+
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=1-wjc&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=1-wjc&theme=default&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=1-wjc&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=1-wjc&theme=default&no-frame=true&no-bg=true&margin-w=4)
+<div align="center">
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=1-wjc&limit=5&theme=default&combine_all_yearly_contributions=true)
-
-### 🌐 Socials
+## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/1_wjc) 
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
