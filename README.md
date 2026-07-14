@@ -44,7 +44,7 @@
 
 ## 📊 GitHub Stats:
 
-![](https://github-profile-3d-contrib.vercel.app/api?username=1-wjc&theme=native)
+![](https://github-readme-activity-graph.vercel.app/graph?username=1-wjc&theme=github)
 
 <br/>
 
