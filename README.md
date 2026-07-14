@@ -44,13 +44,17 @@
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=1-wjc&theme=github)
+<div align="center">
+
+![](https://ghchart.rshah.org/1-wjc)
 
 <br/>
 
 ![](https://github-readme-stats.shion.dev/api?username=1-wjc&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=1-wjc&theme=default&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=1-wjc&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
 
 <br/>
 
