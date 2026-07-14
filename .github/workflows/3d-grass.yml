@@ -1,0 +1,24 @@
+name: GitHub-Profile-3D-Contrib
+
+on:
+  schedule: # 매일 한국 시간 기준 오전 9시쯤 자동으로 잔디를 갱신합니다
+    - cron: "0 0 * * *"
+  workflow_dispatch: # 수동으로도 원할 때 언제든 실행할 수 있게 합니다
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v3
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Commit & Push Changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add -A .
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update 3D Contribution Graph"
+          git push
