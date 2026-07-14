@@ -24,18 +24,18 @@
 
 ## 🎓 Education & Certifications
 
-### 📚 교육 수강 내역
+### 📚 Education
 * **[삼성청년 SW·AI 아카데미(SSAFY)]** | 삼성전자 (2026.07 ~ )
 * **[서울대학교 빅데이터 AI 핀테크 고급 전문가 과정(KDT)]** | 서울대학교 (2024.12 ~ 2025.07)
 
 <br/>
 
-### 🏆 수상 내역
+### 🏆 Awards
 * **제 3회 유통 데이터 활용 경진대회** | 우수상 | 산업통상자원부 (2024.11)
 
 <br/>
 
-### 📜 자격증
+### 📜 Certificates
 * **데이터분석준전문가 (ADsP)** | 한국데이터산업진흥원 (2024.11)
 * **SQL 개발자 (SQLD)** | 한국데이터산업진흥원 (2024.12)
 
@@ -59,5 +59,10 @@
 <br/>
 
 ### 🌐 Socials
+<div align="center">
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/1_wjc) 
+
+</div>
+
 
